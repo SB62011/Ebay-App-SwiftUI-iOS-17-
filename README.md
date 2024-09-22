@@ -4,4 +4,8 @@ Tailored to iOS 17, created using swiftUI,powered by a nodejs backend (Express.j
 
  `For privacy and security reasons, the code is hosted in a private GitHub repository. Interested employers are welcome to contact me directly for access to the repository.`
 
-https://github.com/SB62011/Ebay-App-SwiftUI-iOS-17-/blob/main/Final%20App%20Demo%20Trimmed.mp4
+
+
+https://github.com/user-attachments/assets/633a1b1e-e9f9-4387-9f14-a7aa6eaa8aa0
+
+
